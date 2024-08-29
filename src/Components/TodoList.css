@@ -91,7 +91,7 @@
     justify-content: center;
 }
 
-.delete-button:hover {
+.delete-button-heading:hover {
     background-color: #d32f2f;
 }
 
